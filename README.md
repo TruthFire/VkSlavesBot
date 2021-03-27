@@ -1,2 +1,1 @@
-# VkSlavesBot
- 
+# vk-slaves-python-bot
