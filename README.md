@@ -1,1 +1,0 @@
-# vk-slaves-python-bot
